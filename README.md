@@ -22,7 +22,7 @@ This repository contains resources for analyzing Domino's pizza sales data using
 
 ---
 ##   Dashboard
-![]()
+![](https://github.com/Saswati-18/Domino-s_Pizza_Sales_Analysis/blob/main/dashboard%20pizza.png)
 
 ## 📊 Key Metrics
 
