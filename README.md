@@ -1,5 +1,5 @@
 # Domino-s_Pizza_Sales_Analysis
-
+![](https://github.com/Saswati-18/Domino-s_Pizza_Sales_Analysis/blob/main/dominos-pizza.jpg)
 This repository contains resources for analyzing Domino's pizza sales data using Excel to derive actionable business insights that can inform decisions around marketing, menu optimization, and operational planning.
 
 ---
@@ -21,6 +21,8 @@ This repository contains resources for analyzing Domino's pizza sales data using
 - Formulas for calculating revenue, order volume, and average sales  
 
 ---
+##   Dashboard
+![]()
 
 ## 📊 Key Metrics
 
